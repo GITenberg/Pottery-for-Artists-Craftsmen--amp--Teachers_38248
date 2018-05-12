@@ -1,0 +1,28 @@
+_repo: Pottery-for-Artists-Craftsmen--amp--Teachers_38248
+_version: 0.1.0
+alternative_title: Pottery, for Artists, Craftsmen and Teachers
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cox, George James
+    alias: Cox, George J.
+    birthdate: 1884
+    gutenberg_agent_id: '39347'
+    url: http://www.gutenberg.org/2009/agents/39347
+description: ''
+gutenberg_issued: '2011-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38248'
+  lccn: '14019861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Pottery'
+- !lcc 'TP'
+title: Pottery, for Artists, Craftsmen & Teachers
+url: http://www.gutenberg.org/ebooks/38248
